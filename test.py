@@ -1,5 +1,3 @@
 import time
 
-print("fdsf")
-
-print("fdsfasfsa")
+print("this is the first project & file")
